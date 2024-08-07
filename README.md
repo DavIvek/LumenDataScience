@@ -1,6 +1,6 @@
 # Lumen Data Science 2023.
 
-Repository for Lumen Data Science 2023 competition, predicting instruments in audio files with a CNN.
+Repository for [Lumen Data Science 2023](https://www.estudent.hr/projekti/lumen-data-science) competition, predicting instruments in audio files with a CNN.
 
 ## Description
 
